@@ -1,0 +1,27 @@
+body {
+    background-color: palevioletred;
+    border: solid 2px darkgoldenrod;
+    border-radius: 4px;
+}
+h1 {
+    font-weight: bold;
+    color: navy;
+}
+p {
+    color: brown;
+}
+h2 {
+    color: red;
+    font-style: italic;
+}
+ul {
+    color: navajowhite
+}
+ul:first-child {
+    color: firebrick;
+}
+
+footer {
+    border: groove 5px seagreen;
+    border-radius: 8px;
+}
